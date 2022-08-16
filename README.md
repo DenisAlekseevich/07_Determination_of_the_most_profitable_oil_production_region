@@ -17,8 +17,8 @@
 ## Инструменты и навыки
 
 `Pandas`
-`sklearn`
-`numpy`
+`Scikit-learn`
+`Numpy`
 `Bootstrap`
 `машинное обучение`
 
